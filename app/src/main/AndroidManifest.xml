@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.doskapps.radiosdeguatemala">
+    package="com.doskapps.ghanaradiostations">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -11,7 +11,7 @@
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
 
     <application
-        android:name="com.doskapps.radiosdeguatemala.activities.MyApplication"
+        android:name="com.doskapps.ghanaradiostations.activities.MyApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -20,7 +20,7 @@
         android:usesCleartextTraffic="true">
 
         <activity
-            android:name="com.doskapps.radiosdeguatemala.activities.ActivitySplash"
+            android:name="com.doskapps.ghanaradiostations.activities.ActivitySplash"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -29,7 +29,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.doskapps.radiosdeguatemala.activities.MainActivity"
+            android:name="com.doskapps.ghanaradiostations.activities.MainActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/app_name"
             android:launchMode="singleTop">
@@ -41,16 +41,16 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.doskapps.radiosdeguatemala.activities.ActivityCategoryDetails"
+            android:name="com.doskapps.ghanaradiostations.activities.ActivityCategoryDetails"
             android:configChanges="orientation|keyboardHidden|screenSize" />
         <activity
-            android:name="com.doskapps.radiosdeguatemala.activities.ActivitySearch"
+            android:name="com.doskapps.ghanaradiostations.activities.ActivitySearch"
             android:configChanges="orientation|keyboardHidden|screenSize" />
         <activity
-            android:name="com.doskapps.radiosdeguatemala.activities.ActivityPrivacyPolicy"
+            android:name="com.doskapps.ghanaradiostations.activities.ActivityPrivacyPolicy"
             android:configChanges="orientation|keyboardHidden|screenSize" />
 
-        <service android:name="com.doskapps.radiosdeguatemala.services.RadioPlayerService" />
+        <service android:name="com.doskapps.ghanaradiostations.services.RadioPlayerService" />
 
         <!--admob-->
         <meta-data
@@ -62,13 +62,13 @@
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
 
         <!--fcm-->
-        <service android:name="com.doskapps.radiosdeguatemala.fcm.MyFirebaseMessagingService">
+        <service android:name="com.doskapps.ghanaradiostations.fcm.MyFirebaseMessagingService">
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />
             </intent-filter>
         </service>
 
-        <service android:name="com.doskapps.radiosdeguatemala.fcm.MyFirebaseInstanceIDService">
+        <service android:name="com.doskapps.ghanaradiostations.fcm.MyFirebaseInstanceIDService">
             <intent-filter>
                 <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
             </intent-filter>

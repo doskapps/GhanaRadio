@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">170123490735-sik3gof1pat6ohp9qo4cas2ddjc54idt.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://radio-puerto-rico-7dc54.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">170123490735</string>
-    <string name="google_api_key" translatable="false">AIzaSyDmebs9cghmf3ApEKO-lgiTbsZ1Mz2LlWQ</string>
-    <string name="google_app_id" translatable="false">1:170123490735:android:d393c81b08acfbd3</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDmebs9cghmf3ApEKO-lgiTbsZ1Mz2LlWQ</string>
-    <string name="google_storage_bucket" translatable="false">radio-puerto-rico-7dc54.appspot.com</string>
-    <string name="project_id" translatable="false">radio-puerto-rico-7dc54</string>
+    <string name="default_web_client_id" translatable="false">306649324759-o7gf5so05ss39pepbc49458pd95li8li.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://radio-guatemala-d9af3.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">306649324759</string>
+    <string name="google_api_key" translatable="false">AIzaSyC9qtBz_23nL5qP__1PVV382mA7wrgVOJ0</string>
+    <string name="google_app_id" translatable="false">1:306649324759:android:2b1cce2ef43f5437</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC9qtBz_23nL5qP__1PVV382mA7wrgVOJ0</string>
+    <string name="google_storage_bucket" translatable="false">radio-guatemala-d9af3.appspot.com</string>
+    <string name="project_id" translatable="false">radio-guatemala-d9af3</string>
 </resources>

@@ -4,7 +4,7 @@ android {
     compileSdkVersion 28
 
     defaultConfig {
-        applicationId 'com.doskapps.radiosdeguatemala'
+        applicationId 'com.doskapps.ghanaradiostations'
         minSdkVersion 16
         targetSdkVersion 28
         versionCode 1

@@ -2,16 +2,16 @@
 <resources>
 
     <!--Your application name-->
-    <string name="app_name">Guatemala Radio</string>
+    <string name="app_name">Ghana Radio</string>
 
     <!--Your main menu tab name-->
     <string name="tab_recent">Recent</string>
     <string name="tab_category">Region/City</string>
 
     <!--AdMob-->
-    <string name="admob_app_id">ca-app-pub-7602201078320441~1921560999</string>
-    <string name="admob_banner_unit_id">ca-app-pub-7602201078320441/2799528392</string>
-    <string name="admob_interstitial_unit_id">ca-app-pub-7602201078320441/8103825963</string>
+    <string name="admob_app_id"></string>
+    <string name="admob_banner_unit_id"></string>
+    <string name="admob_interstitial_unit_id"></string>
 
     <!--navigation drawer menu name-->
     <string name="drawer_recent">Home</string>

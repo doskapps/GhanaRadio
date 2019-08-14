@@ -30,7 +30,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
 
-                <com.doskapps.radiosdeguatemala.utilities.SquareImageView
+                <com.doskapps.ghanaradiostations.utilities.SquareImageView
                     android:id="@+id/row_logo"
                     android:layout_width="match_parent"
                     android:layout_height="100dp"
