@@ -189,7 +189,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
             // Se obtiene le pais de la red. Puede no funcionar en dispositivos sin tarjeta SIM
             //TelephonyManager tm = (TelephonyManager) this.getSystemService(Context.TELEPHONY_SERVICE);
-            pais = "GT"; // tm.getNetworkCountryIso().toUpperCase();
+            pais = "GH"; // tm.getNetworkCountryIso().toUpperCase();
 
             if (pais == null || pais.trim().length() == 0) {
                 // Se obtiene el pais de la configuracion regional del dispositivo
