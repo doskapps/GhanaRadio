@@ -2,8 +2,8 @@
 <resources>
 
     <!--app main color-->
-    <color name="colorPrimary">#2196F3</color>
-    <color name="colorPrimaryDark">#2D3180</color>
+    <color name="colorPrimary">#28AD1B</color>
+    <color name="colorPrimaryDark">#3C802D</color>
     <color name="colorAccent">#000000</color>
 
     <!--app tab color-->
@@ -12,9 +12,9 @@
     <color name="tabTextColor">#000000</color>
 
     <!--swipe down refresh animation color-->
-    <color name="orange">#3F51B5</color>
-    <color name="green">#210099</color>
-    <color name="blue">#50D9E6</color>
+    <color name="orange">#FF9800</color>
+    <color name="green">#4CAF50</color>
+    <color name="blue">#3F51B5</color>
 
     <!--ripple color-->
     <color name="colorRipple">#c4c4c4</color>

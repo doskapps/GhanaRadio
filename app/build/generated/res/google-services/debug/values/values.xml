@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">306649324759-o7gf5so05ss39pepbc49458pd95li8li.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://radio-guatemala-d9af3.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">306649324759</string>
-    <string name="google_api_key" translatable="false">AIzaSyC9qtBz_23nL5qP__1PVV382mA7wrgVOJ0</string>
-    <string name="google_app_id" translatable="false">1:306649324759:android:2b1cce2ef43f5437</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC9qtBz_23nL5qP__1PVV382mA7wrgVOJ0</string>
-    <string name="google_storage_bucket" translatable="false">radio-guatemala-d9af3.appspot.com</string>
-    <string name="project_id" translatable="false">radio-guatemala-d9af3</string>
+    <string name="default_web_client_id" translatable="false">309968538992-f1shdf73qkvah3cud4etv3o9dm5ua623.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://radios-ghana-1193b.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">309968538992</string>
+    <string name="google_api_key" translatable="false">AIzaSyArHn7PKolzrJbC0GQReXkDtgIDM9zFP0I</string>
+    <string name="google_app_id" translatable="false">1:309968538992:android:16ceed92b6ec8467</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyArHn7PKolzrJbC0GQReXkDtgIDM9zFP0I</string>
+    <string name="google_storage_bucket" translatable="false">radios-ghana-1193b.appspot.com</string>
+    <string name="project_id" translatable="false">radios-ghana-1193b</string>
 </resources>
