@@ -1,40 +1,40 @@
 {
   "project_info": {
-    "project_number": "306649324759",
-    "firebase_url": "https://radio-guatemala-d9af3.firebaseio.com",
-    "project_id": "radio-guatemala-d9af3",
-    "storage_bucket": "radio-guatemala-d9af3.appspot.com"
+    "project_number": "309968538992",
+    "firebase_url": "https://radios-ghana-1193b.firebaseio.com",
+    "project_id": "radios-ghana-1193b",
+    "storage_bucket": "radios-ghana-1193b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:306649324759:android:2b1cce2ef43f5437",
+        "mobilesdk_app_id": "1:309968538992:android:16ceed92b6ec8467",
         "android_client_info": {
           "package_name": "com.doskapps.ghanaradiostations"
         }
       },
       "oauth_client": [
         {
-          "client_id": "306649324759-o7gf5so05ss39pepbc49458pd95li8li.apps.googleusercontent.com",
+          "client_id": "309968538992-f1shdf73qkvah3cud4etv3o9dm5ua623.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC9qtBz_23nL5qP__1PVV382mA7wrgVOJ0"
+          "current_key": "AIzaSyArHn7PKolzrJbC0GQReXkDtgIDM9zFP0I"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "306649324759-o7gf5so05ss39pepbc49458pd95li8li.apps.googleusercontent.com",
+              "client_id": "309968538992-f1shdf73qkvah3cud4etv3o9dm5ua623.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
         }
       },
-      "admob_app_id": "ca-app-pub-7602201078320441~1921560999"
+      "admob_app_id": "ca-app-pub-7602201078320441~7532520878"
     }
   ],
   "configuration_version": "1"
